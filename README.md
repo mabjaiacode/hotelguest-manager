@@ -78,6 +78,7 @@ flowchart LR
     style Sistema fill:#ffffff,stroke:#666,stroke-width:2px,stroke-dasharray: 5 5
 ```
 
+
 ### b) Descricao detalhada de casos de uso
 
 | Caso de uso | Manter Reserva |
